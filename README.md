@@ -15,4 +15,4 @@ This project implements a smart home automation system using Arduino.
 
 ## Author
 Muhammad Umair Ajmal
-Electrical Engineering Student
+
